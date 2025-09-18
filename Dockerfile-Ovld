@@ -1,0 +1,16 @@
+DEPUISnaude : 20-bullseye-slim
+
+COURIRapt-get update && apt-get install
+    ffmpeg /
+    git /
+    && rm -rf /var/lib/apt/lists/*
+
+COURIRclone-git https://github.com/Ainz-
+
+Repertoire De travail:/Ovl.bot
+
+COURIRinstallation npm
+
+EXPOSER8000
+
+CMD["npm","courir","Ovl.bot"]
